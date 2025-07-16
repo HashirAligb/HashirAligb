@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://thisishashir.org/](https://thisishashir.org/)
 
-- 📝 I regularly write articles on [*(Coming soon – reflections from CTP and hackathon writeups)*](*(Coming soon – reflections from CTP and hackathon writeups)*)
-
 - 💬 Ask me about **- Building Discord bots with Python - Fast prototyping in hackathons - CUNY Tech Prep experience**
 
 - 📫 How to reach me **hashirali3003@gmail.com**
