@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashiraligb&label=Profile%20views&color=0e75b6&style=flat" alt="hashiraligb" /> </p>
 
-- 🔭 I’m currently working on [JuriSee Data Visualization Project - Visualizing legal datasets to support civic tech](https://www.jurisee.com/)
+- 🔭 I’m currently working on a Client facing dashboard for Elevvo Pathways)
 
 - 🌱 I’m currently learning **TypeScript, Next.js and System Design**
 
