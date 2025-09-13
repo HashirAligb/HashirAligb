@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashiraligb&label=Profile%20views&color=0e75b6&style=flat" alt="hashiraligb" /> </p>
 
-- 🔭 I’m currently working on a Client facing dashboard for Elevvo Pathways)
+- 🔭 I’m currently working on a Campusvoice 
 
 - 🌱 I’m currently learning **TypeScript, Next.js and System Design**
 
-- 🔭 I’m currently working on [GPA Grade Distribution Discord Bot](https://github.com/HashirAligb/GradeBotDeployed)
+- 🔭 I deployed [GPA Grade Distribution Discord Bot](https://github.com/HashirAligb/GradeBotDeployed)
 
 - 🤝 I’m looking to collaborate on **Full-stack apps (especially EdTech, civic tools, or AI-enhanced platforms)**
 
