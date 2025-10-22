@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking to collaborate on **Full-stack apps (especially EdTech, civic tools, or AI-enhanced platforms)**
 
-- 👨‍💻 All of my projects are available at [https://thisishashir.org/](https://thisishashir.org/)
-
 - 💬 Ask me about **- Building Discord bots with Python - Fast prototyping in hackathons - CUNY Tech Prep experience**
 
 - 📫 How to reach me **hashirali3003@gmail.com**
