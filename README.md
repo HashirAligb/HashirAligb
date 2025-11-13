@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hashir Ali</h1> 
-[![Hashir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HashirAligb&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h3 align="center">I'm Hashir Ali a 3rd year Computer Science student at CUNY Queens College, a full stack developer and CUNY Tech Prep fellow passionate about building scalable, impactful software.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashiraligb&label=Profile%20views&color=0e75b6&style=flat" alt="hashiraligb" /> </p>
